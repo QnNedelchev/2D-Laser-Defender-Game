@@ -33,6 +33,3 @@ enemy spaceships, meteors and storms which are comming in waves.
   - Mobile Joysticks 
   - Health and Armor systems
   - Score system
-  
-![CrossFire_Screenshot2](https://user-images.githubusercontent.com/99598013/153967113-c7835d98-769e-492f-884f-83cbb9ef8b21.png)
-![CrossFire_Screenshot3](https://user-images.githubusercontent.com/99598013/153967118-af8bd218-3b52-4c27-bad0-652fd3ca39ab.png)
